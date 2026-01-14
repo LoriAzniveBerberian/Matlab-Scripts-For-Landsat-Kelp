@@ -1,8 +1,3 @@
-<p align="center">
-  <a href="https://kelpwatch.org/">
-    <img src="assets/kelpwatch-logo.png" alt="KelpWatch" width="320">
-  </a>
-</p>
 
 # Matlab-Scripts-For-Landsat-Kelp
 
